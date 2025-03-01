@@ -20,6 +20,7 @@ integrated within the strategy to capture full trend potential.
 
 
 --MEATHODOLOGY--
+
  The Master Alpha strategy dynamically selects the best
 performing alpha based on market conditions, ensuring 
 adaptability and minimizing false signals.
