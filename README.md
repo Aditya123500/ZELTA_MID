@@ -29,10 +29,12 @@ adaptability and minimizing false signals.
   
   Maintains multiple alphas optimized for different 
   market states.
+  
   2. 
   
   Periodically evaluates alphas using volatility, mean 
   positive returns, max drawdown, and Sharpe ratio.
+  
   3.
   
   Computes a composite alpha score to rank and 
@@ -41,7 +43,10 @@ adaptability and minimizing false signals.
  2.Strategy Hypothesis & Optimization
  
  1.
+ 
  Assumes trend persistence, selecting the top
   performing alpha from the previous period.
  2.
+
+  Minimizes turnover to reduce brokerage costs.
  Minimizes turnover to reduce brokerage costs.
