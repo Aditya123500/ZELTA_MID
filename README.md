@@ -23,7 +23,7 @@ integrated within the strategy to capture full trend potential.
  The Master Alpha strategy dynamically selects the best
 performing alpha based on market conditions, ensuring 
 adaptability and minimizing false signals.
- 1.Alpha Pool & Selection
+1.Alpha Pool & Selection
  
   1.Maintains multiple alphas optimized for different 
   market states.
