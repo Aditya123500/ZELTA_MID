@@ -46,12 +46,16 @@ adaptability and minimizing false signals.
 
 
 --RESULT--
+
 The Master Alpha strategy demonstrated strong performance 
 across BTC and ETH markets:
+
  •BTC Performance: Achieved a 5430.4% total profit, with a 
 69.76% win rate, a Sharpe ratio of 10.68
+
  •ETH Performance: Delivered a 348,064.77% total profit, a 
 74.39% win rate, a Sharpe ratio of 10.799
+
  Both assets exhibited high returns with controlled risk, but BTC 
 faced more market downturns, reflected in its higher Max Time 
 to Recovery (TTR)
