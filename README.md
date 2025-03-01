@@ -56,4 +56,4 @@ across BTC and ETH markets:
  •ETH Performance: Delivered a 348,064.77% total profit, a 
 74.39% win rate, a Sharpe ratio of 10.799
 
- Both assets exhibited high returns with controlled risk, and both the algos were able to perform on future data as well
+ Both assets exhibited high returns with controlled risk, and both the algos were able to perform on future data as well.
